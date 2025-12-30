@@ -20,6 +20,7 @@ def main():
         {'app_id': 1973530, 'name': 'Limbus Company'},
         {'app_id': 730, 'name': 'Counter-Strike 2'},
         {'app_id': 440, 'name': 'Team Fortress 2'},
+        {'app_id': 2357570, 'name': 'Overwatch 2'},
     ]
     
     print("=" * 80)
